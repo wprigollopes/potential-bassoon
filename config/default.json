@@ -1,0 +1,8 @@
+{
+    "server": {
+        "port": "3000"
+    },
+    "mongoose": {
+        "connection": "mongodb+srv://logixboard_assignment:wZbCVcdnoyOtg9y7@cluster0.e5krhhe.mongodb.net/api_assignment?retryWrites=true&w=majority"
+    }
+}
